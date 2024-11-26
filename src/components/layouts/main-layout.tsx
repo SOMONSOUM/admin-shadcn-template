@@ -9,7 +9,7 @@ import {
   SheetTrigger,
 } from "@/components/ui/sheet";
 import { cn } from "@/lib/utils";
-import { Sidebar } from "../customs/sidebar";
+import { Sidebar } from "../sidebar/sidebar";
 import React from "react";
 import { usePathname } from "next/navigation";
 import ReactCountryFlag from "react-country-flag";
